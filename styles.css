@@ -1,0 +1,19 @@
+/* Setting the background color of the entire page to light blue */
+body {
+  background-color: lightblue;
+}
+
+/* Setting the background color of a heading to green */
+h1 {
+  background-color: green;
+}
+
+/* Setting the background color of an element with the class "card" to a specific hex value */
+.card {
+  background-color: #f0f0f0;
+}
+
+/* Setting the background color of an element with the ID "main-content" to an RGB value */
+#main-content {
+  background-color: rgb(240, 248, 255);
+}
